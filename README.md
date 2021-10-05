@@ -1,3 +1,3 @@
 # programming-blog-template
-I develope a responsive website uaing bootstrap.
+I develope a responsive website using bootstrap.
 
